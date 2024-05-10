@@ -1,0 +1,1 @@
+We will implement semantic search for movie recommendations. we'll be using a sample movie data set containing over 20k records documents in MongoDB and we will be using the all many LM L6 V2 model from HuggingFace for generating the vector embedding during the  index time as well as query time.
